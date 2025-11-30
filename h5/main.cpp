@@ -13,7 +13,7 @@ int main()
     int* pointerA = &a;
     int &refA = a;
 
-    //&refA = b;
+    //&refA = b;  // ei toimi
     //pointerA = &b;
 
     cout << "Muuttujan a osoite: " << &a << endl;
