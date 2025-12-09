@@ -5,7 +5,7 @@ CONFIG -= app_bundle
 
 SOURCES += \
         main.cpp \
-        myclass.cpp
+        exampleclass.cpp
 
 HEADERS += \
-    myclass.h
+    exampleclass.h
